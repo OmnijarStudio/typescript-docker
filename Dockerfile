@@ -1,4 +1,4 @@
-FROM omnijarstudio/node:alpine-8.1.2
+FROM omnijarstudio/node:8.1.2-alpine
 
 MAINTAINER Phil J. Łaszkowicz (https://github.com/siilime)
 
