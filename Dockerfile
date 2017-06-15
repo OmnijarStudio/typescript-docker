@@ -5,7 +5,7 @@ MAINTAINER Phil J. Łaszkowicz (https://github.com/siilime)
 USER root
 
 RUN npm i -g typescript && \
-  npm cache clean
+  npm cache verify
 
 USER app
 
